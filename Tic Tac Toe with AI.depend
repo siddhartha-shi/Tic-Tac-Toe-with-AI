@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1530268373 source:c:\users\siddhartha\desktop\bjet submitted cpp projects\tic tac toe with ai\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<string>
+
